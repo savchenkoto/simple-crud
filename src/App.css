@@ -1,0 +1,31 @@
+div {
+  text-align: center;
+}
+table {
+  margin-top: 15px;
+}
+form {
+  margin-top: 15px;
+}
+.hiddenColumn {
+    display: none;
+}
+.editing {
+  background-color: lightgray;
+}
+td > a {
+  min-width: 50px;
+  display: inline-block;
+}
+.form-container {
+  display: inline-block;
+    margin-bottom: 10px;
+}
+.emptyMessage {
+  margin-top: 15px;
+}
+
+div > button.btn {
+  display: inline-block;
+  margin-right: 8px;
+}
